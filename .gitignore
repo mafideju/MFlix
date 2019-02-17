@@ -1,4 +1,6 @@
 dotenv_unix
+.env
 .prettierrc
 README.rst
 node_modules
+npm-debug.log
